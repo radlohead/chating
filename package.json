@@ -1,0 +1,19 @@
+{
+  "name": "chating",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "jquery": "^1.11.1",
+    "realtime": "0.0.1",
+    "socket.io": "^1.7.3",
+    "websocket": "^1.0.24"
+  }
+}
